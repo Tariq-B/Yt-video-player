@@ -1,4 +1,4 @@
-.nav{display:flex;flex-direction:row;height:56px;position:fixed;z-index:2;}
-.leftbutton {align-items:center;width: 40px;padding-left:8px;cursor:pointer;}
-.ytlogo {position:absolute;top:8px;width:80px;height:24px;padding-left:16px;cursor:pointer;}
+.nav{display:flex;flex-direction:row;height:48px;width:100%;background-color:white;position:fixed;z-index:2;}
+.leftbutton {align-items:center;width: 40px;margin-left:8px;cursor:pointer;}
+.ytlogo {position:relative;bottom:8px;width:80px;height:24px;margin-left:12px;cursor:pointer;}
 .video {position:absolute;top:72px;left:63px;z-index:1;}
