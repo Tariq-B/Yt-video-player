@@ -1,4 +1,4 @@
-.nav{display:flex;flex-direction:row;height:56px;position:fixed;}
+.nav{display:flex;flex-direction:row;height:56px;position:fixed;z-index:2;}
 .leftbutton {align-items:center;width: 40px;padding-left:8px;}
 .ytlogo {position:absolute;top:8px;width:80px;height:24px;padding-left:16px;}
-.video {position:absolute;top:72px;left:63px;}
+.video {position:absolute;top:72px;left:63px;z-index:1;}
