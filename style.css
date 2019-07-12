@@ -1,4 +1,4 @@
-.nav{display:flex;flex-direction:row;height:48px;width:100%;background-color:white;box-shadow: 0px 4px 8px -3px rgba(17, 17, 17, .06);position:fixed;top:0;left:0;z-index:2;}
+.nav{display:flex;flex-direction:row;height:56px;width:100%;background-color:white;box-shadow: 0px 4px 8px -3px rgba(17, 17, 17, .06);position:fixed;top:0;left:0;z-index:2;}
 .leftbutton {align-items:center;width: 40px;margin-left:8px;cursor:pointer;}
 .ytlogo {position:relative;bottom:8px;width:80px;height:24px;margin-left:12px;cursor:pointer;}
 .video {position:absolute;top:72px;left:63px;z-index:1;}
