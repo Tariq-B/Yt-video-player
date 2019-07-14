@@ -2,3 +2,4 @@
 .leftbutton {position:relative;top:12px;width:20px;height:17px;margin-left:26px;cursor:pointer;}
 .ytlogo {position:relative;top:16px;width:80px;height:24px;margin-left:22px;cursor:pointer;}
 .video {position:absolute;top:72px;left:63px;z-index:1;}
+.search {border-color: rgb(17, 17, 17);border-width:1px;width:562.2px;line-height: 24px;}
